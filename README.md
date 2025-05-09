@@ -2,6 +2,7 @@
 A project that captures your Osu! gameplay and project it down onto a stream of your tablet. Why? Because I thought it would be cool and a fun exercise to make.
 
 Video demo using non-ideal webcam and non-ideal Osu! skill (I am definitely not mrekk).
+
 [![Video Demo](https://img.youtube.com/vi/C_So4IpWdVg/0.jpg)](https://www.youtube.com/watch?v=C_So4IpWdVg "Video Demo")
 
 ## How it works
