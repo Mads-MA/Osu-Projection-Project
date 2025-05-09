@@ -1,0 +1,21 @@
+{
+    "dependencies": [
+      "eigen3",
+      "glad",
+      "glfw3",
+      {
+        "name": "imgui",
+        "features": [
+          "glfw-binding",
+          "opengl3-binding"
+        ]
+      },
+      {
+        "name": "opencv",
+        "features": [
+          "eigen"
+        ]
+      }
+    ]
+  }
+  

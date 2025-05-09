@@ -1,0 +1,10 @@
+.vscode/settings.json
+
+build/**
+out/**
+
+**/imgui.ini
+
+calibration.yml
+
+python/osu_to_camera_homography.npy
